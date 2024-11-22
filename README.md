@@ -1,2 +1,2 @@
 # code-to-split-large-datasets
-I made this code to split the large datasets into chunks and save each chunck in a separate file.
+This is a simple code for splitting large datasets into chunks and save each chunck in a separate file.
